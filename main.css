@@ -1,0 +1,15 @@
+body {
+color: white;
+background-color: black;
+}
+.special{
+font-style: oblique;
+color:blue;
+}
+
+#bio{
+font-size: large;
+}
+li a{
+text-decoration: none;
+}
