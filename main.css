@@ -12,4 +12,8 @@ font-size: large;
 }
 li a{
 text-decoration: none;
+color: red;
+}
+p{
+  font-style: oblique;
 }
